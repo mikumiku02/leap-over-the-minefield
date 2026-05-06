@@ -1,3 +1,7 @@
 [submodule "fly"]
 	path = fly
 	url  = https://gitee.com/Sl149/21st-leap-over-the-minefield
+
+[submodule "car"]
+	path = car
+	url  = https://gitee.com/Sl149/21st-leap-over-the-minefield
