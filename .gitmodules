@@ -1,7 +1,7 @@
 [submodule "fly"]
 	path = fly
-	url  = https://gitee.com/Sl149/21st-leap-over-the-minefield
+	url = https://github.com/mikumiku02/21st-leap-over-the-minefield.git
 
 [submodule "car"]
 	path = car
-	url  = https://gitee.com/Sl149/21st-leap-over-the-minefield
+	url = https://github.com/mikumiku02/21st-leap-over-the-minefield.git
